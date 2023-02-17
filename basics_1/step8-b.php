@@ -7,3 +7,4 @@ $grocery = array(
 );
 
 echo "Hey Sir, Please I need 1 pack of " . $grocery["eggs"][0] . " eggs and 3 " . $grocery["water-pack"][1] . " Water Pack.";
+?>
